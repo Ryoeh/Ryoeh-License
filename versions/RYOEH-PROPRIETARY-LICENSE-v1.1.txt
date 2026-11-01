@@ -1,0 +1,177 @@
+RYOEH PROPRIETARY LICENSE
+Version 1.1
+Copyright (c) 2026 Ryoeh. All Rights Reserved.
+
+PREAMBLE
+This License establishes the conditions governing access to, use of, reproduction of, modification of, and distribution of software and other original materials published by Ryoeh.
+Its purpose is to preserve the intellectual property rights of the author while allowing the public to inspect and study publicly accessible materials.
+The License is based on the principle that public availability does not, by itself, constitute authorization for unrestricted reuse.
+Accessing, viewing, downloading, cloning, or interacting in any manner with the Protected Materials constitutes explicit and binding acceptance of the terms of this License by the User. If the User does not accept these terms, they must immediately cease all access and permanently delete any copies in their possession.
+
+
+TITLE I — GENERAL PROVISIONS
+Article 1 — Subject Matter
+This License applies to the original software, source code, documentation, designs, graphics, and other materials expressly identified as being subject to this License (hereinafter, the "Protected Materials").
+The Protected Materials are subject to applicable intellectual property laws, including Italian Law No. 633/1941 on copyright and relevant European Union regulations.
+This License applies exclusively to rights owned or lawfully controlled by the author.
+Third-party materials remain subject to their respective licenses and legal conditions.
+
+Article 2 — Ownership and Reservation of Rights
+All rights in the Protected Materials are reserved to their respective copyright holders.
+No right, title, or interest in the Protected Materials is transferred to any person by virtue of their publication, accessibility, or downloading.
+No authorization shall be presumed from silence, accessibility, attribution, acknowledgment, or the absence of a restrictive technical measure.
+Any right not expressly granted under this License remains reserved.
+
+Article 3 — Definitions
+For the purposes of this License:
+a. Author: Ryoeh, being the original author or lawful rights holder of the relevant Protected Materials.
+b. User: Any individual, organization, company, or other entity accessing or interacting with the Protected Materials.
+c. Use: Any exploitation of the Protected Materials beyond ordinary public inspection, including reproduction, execution, incorporation, adaptation, distribution, publication, or commercial exploitation.
+d. Authorization: An explicit written permission issued by the Author or an appropriately authorized representative.
+e. Derivative Work: Any adaptation, modification, translation, transformation, or other work incorporating protected expression from the Protected Materials.
+
+
+TITLE II — PUBLIC ACCESS AND PERMITTED ACTIVITIES
+Article 4 — Right of Inspection
+Any person may access, view, read, and inspect publicly available Protected Materials strictly for the purposes of:
+a. Personal inspection;
+b. Educational study;
+c. Technical evaluation;
+d. Understanding the structure and implementation of the software.
+Inspection does not grant permission to reuse, reproduce, distribute, modify, or commercially exploit the Protected Materials.
+Ordinary access to a publicly hosted repository/website and interaction with its published functionality are permitted solely through the official user interface, subject to applicable platform terms.
+
+Article 5 — Absence of General Reuse Authorization
+Public availability shall not be interpreted as a general license to use the Protected Materials.
+No permission to reuse the Protected Materials is granted merely because:
+a. The repository is public;
+b. The source code is accessible;
+c. The User can download, clone, or view the files;
+d. The User provides attribution;
+e. The intended use is non-commercial.
+Any reuse beyond the activities permitted under Article 4 requires prior written authorization, except where mandatory law provides otherwise.
+
+
+TITLE III — RESTRICTED ACTIVITIES
+Article 6 — Reproduction
+Without prior written authorization, no User shall reproduce or copy the Protected Materials, in whole or in substantial part, for independent reuse or exploitation.
+This provision is subject to the rights granted under the hosting platform's Terms of Service (e.g., GitHub's viewing and native interface forking features) and applicable mandatory legal exceptions.
+
+Article 7 — Modification and Adaptation
+Without prior written authorization, no User shall:
+a. Modify or adapt the Protected Materials;
+b. Create derivative works based upon the Protected Materials;
+c. Translate or transform protected source code;
+d. Incorporate protected portions into another software project;
+e. Remove or alter copyright notices or licensing information.
+
+Article 8 — Distribution and Publication
+Without prior written authorization, no User shall:
+a. Redistribute the Protected Materials outside the permissions granted by the relevant hosting platform's interface;
+b. Publish copies of the Protected Materials on independent repositories, mirrors, or websites;
+c. Sublicense or transfer rights in the Protected Materials;
+d. Offer the Protected Materials as part of another product or service.
+
+Article 9 — Commercial Exploitation
+Commercial use of the Protected Materials is prohibited unless expressly authorized in writing by the Author.
+Commercial use includes, but is not limited to:
+a. Incorporation into commercial software or products;
+b. Sale or licensing of products incorporating the Protected Materials;
+c. Provision of paid services based upon the Protected Materials;
+d. Distribution for commercial advantage.
+Authorization for commercial use may be subject to separate conditions, fees, and agreements.
+
+Article 10 — Automated Processing and Machine Learning (Text and Data Mining Opt-Out)
+Pursuant to Article 4 of Directive (EU) 2019/790 and applicable legislation, the Author expressly reserves all rights to use the Protected Materials for text and data mining, automated extraction, and machine learning purposes. 
+Without prior written authorization, no person or automated agent may use the Protected Materials for:
+a. Compilation into commercial or publicly distributed code datasets;
+b. Training, pre-training, validation, or fine-tuning of machine learning models, neural networks, or artificial intelligence systems;
+c. Creating derivative datasets intended for redistribution or commercial deployment;
+d. Automated extraction or reproduction for independent exploitation.
+This clause serves as an express machine-readable and human-readable reservation of rights against automated harvesting and scraping.
+
+
+TITLE IV — AUTHORIZATION PROCEDURE
+Article 11 — General Requirement
+Any activity requiring authorization under this License must receive explicit written approval before commencement.
+Authorization shall not be inferred from the submission of a request, the passage of time, or the absence of an objection.
+Each authorization shall be interpreted strictly according to its expressly stated scope.
+
+Article 12 — Official Request Channel
+Requests for authorization shall be submitted through the official GitHub repository channel or issues page designated by the Author:
+https://github.com/Ryoeh/ryoeh.github.io/issues
+Each request should identify:
+a. The Protected Materials concerned;
+b. The intended purpose;
+c. The nature and extent of the proposed use;
+d. Whether the activity is commercial;
+e. Whether modifications or redistribution are intended.
+The Author reserves the right to request additional information before making a decision.
+
+Article 13 — Grant of Authorization
+Authorization shall be valid only when expressly granted in writing by the Author or an authorized representative.
+The authorization shall specify, where applicable:
+a. The materials covered;
+b. The permitted activities;
+c. The duration;
+d. The applicable restrictions;
+e. Any additional conditions.
+Authorization for one purpose shall not imply authorization for another.
+Authorization shall not be transferable or sublicensable unless expressly stated otherwise.
+
+Article 14 — Revocation and Termination
+Authorizations may be terminated in accordance with their express conditions and applicable law.
+A material breach of an authorization will result in its immediate termination, subject to applicable legal requirements.
+Upon lawful termination, the recipient shall immediately cease all activities covered by the terminated authorization and destroy any copies in their possession.
+Termination shall not eliminate rights or obligations that, by their nature or under applicable law, survive termination.
+
+
+TITLE V — PLATFORM TERMS AND LEGAL EXCEPTIONS
+Article 15 — Compatibility with Hosting Platforms
+This License does not restrict rights independently and natively granted by the terms of service of the hosting platform.
+In particular, where the Protected Materials are published in a public GitHub repository, the platform-native rights granted to other users concerning viewing and forking within the platform remain unaffected.
+Such platform permissions shall not be interpreted as a general authorization for independent commercial exploitation, off-platform distribution, or unrestricted reuse outside the strict scope of those platform functionalities.
+Where this License and mandatory platform terms conflict, the relevant platform terms shall prevail strictly to the extent required.
+
+Article 16 — Mandatory Legal Provisions
+Nothing in this License excludes, restricts, or overrides rights or exceptions that cannot lawfully be excluded under applicable legislation (including Italian Law No. 633/1941).
+Statutory rights relating to copyright, software interoperability, permitted observation, study, testing, and other mandatory exceptions remain unaffected.
+No provision shall be interpreted as waiving rights that applicable law makes non-waivable.
+
+
+TITLE VI — WARRANTIES AND LIABILITY
+Article 17 — Disclaimer of Warranty
+The Protected Materials are provided "AS IS" and "AS AVAILABLE", without warranty of any kind, express or implied.
+The Author makes no warranty concerning:
+a. Accuracy;
+b. Reliability;
+c. Availability;
+d. Fitness for a particular purpose;
+e. Absence of defects or errors.
+No guarantee of maintenance, technical support, or future updates is provided.
+
+Article 18 — Limitation of Liability
+To the maximum extent permitted by applicable law, the Author shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from or related to activities involving the Protected Materials.
+Nothing in this Article excludes liability that cannot lawfully be excluded.
+
+
+TITLE VII — FINAL PROVISIONS
+Article 19 — Amendments and Versioning
+The Author may publish revised versions of this License. Each version shall be identified by a version number and publication date.
+The terms and conditions applicable to any specific version, release, or commit of the Protected Materials shall be those in effect at the time of publication of that specific version, unless otherwise specified. A new version of the License shall not retroactively alter the terms of an authorization already explicitly granted in writing.
+
+Article 20 — Severability
+If any provision of this License is held invalid, illegal, or unenforceable by a competent authority, the remaining provisions shall remain in full force and effect.
+
+Article 21 — Governing Law and Jurisdiction
+This License shall be interpreted and governed in accordance with Italian law and European Union law, without prejudice to mandatory rules that may apply in other jurisdictions.
+For any dispute arising out of or in connection with this License, the parties submit to the exclusive jurisdiction of the Courts where the Author resides or maintains its principal legal operations, without prejudice to mandatory statutory fora for consumers where applicable.
+
+Article 22 — Entire Agreement
+This document constitutes the general licensing conditions applicable to the Protected Materials identified as being subject to it.
+Any separate written authorization or agreement signed by the Author shall prevail over this License solely to the extent of an express and specific conflict.
+
+
+END OF RYOEH PROPRIETARY LICENSE (v1.1)
+Copyright (c) 2026 Ryoeh.
+All Rights Reserved.
