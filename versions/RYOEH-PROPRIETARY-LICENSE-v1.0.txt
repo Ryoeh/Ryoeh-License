@@ -1,0 +1,85 @@
+Ryoeh License
+
+Version 1.0 — November 2026
+
+Copyright (c) 2026 Ryoeh. All rights reserved.
+
+1. Ownership
+
+All source code, software, documentation, and other original materials contained in this project (the "Software") are the intellectual property of the original author, Ryoeh, unless otherwise stated.
+
+All rights not expressly granted under this License are reserved.
+
+2. Permitted Access
+
+Anyone may access, view, and read the publicly available Software for personal inspection, educational purposes, and learning.
+
+Viewing the Software does not grant permission to use, copy, modify, execute, distribute, publish, sublicense, or incorporate any portion of it into another project.
+
+3. Restrictions
+
+Without prior written permission from the author, no person or organization may:
+
+1. Copy or reproduce the Software, in whole or in part, for reuse.
+2. Modify, adapt, translate, or create derivative works based on the Software.
+3. Incorporate the Software into personal, academic, commercial, or third-party projects.
+4. Distribute, publish, sublicense, or make the Software available elsewhere.
+5. Use the Software or any substantial portion of it for commercial purposes.
+6. Deploy, host, or execute the Software as part of another product or service.
+
+These restrictions apply regardless of whether the intended use is personal, educational, non-commercial, or commercial.
+
+4. Permission Requests
+
+Anyone wishing to use the Software beyond the permitted access described in Section 2 must obtain explicit written authorization from the author before doing so.
+
+Permission requests must be submitted through GitHub Issues:
+
+https://github.com/Ryoeh/ryoeh.github.io/issues
+
+A request should include:
+
+1. The project or component intended for use.
+2. A description of the intended use.
+3. Whether the use is personal, educational, or commercial.
+4. Whether modifications or redistribution are intended.
+
+Submitting a request does not constitute authorization.
+
+Permission is granted only when the author explicitly approves the request in writing. Any authorization may be subject to additional conditions and is limited to the specific use approved.
+
+Silence or failure to respond must not be interpreted as consent.
+
+5. Third-Party Materials
+
+This License applies only to original materials owned by the author.
+
+Third-party libraries, dependencies, assets, and other materials remain subject to their respective licenses and terms.
+
+Nothing in this License overrides the rights granted by applicable third-party licenses.
+
+6. No Warranty
+
+The Software is provided "AS IS", without warranty of any kind, express or implied.
+
+The author shall not be held liable for claims, damages, or other liabilities arising from the use of the Software, to the maximum extent permitted by applicable law.
+
+7. Termination
+
+Any permission granted under this License may be terminated if its conditions are violated.
+
+Upon termination, the recipient must cease the activities covered by the revoked authorization, subject to applicable law.
+
+8. Reservation of Rights
+
+No rights are granted by implication, estoppel, or otherwise.
+
+Any use not expressly permitted by this License requires prior written authorization from the author.
+
+9. Governing Law
+
+This License is subject to applicable laws and regulations. Any provision found unenforceable shall not affect the validity of the remaining provisions.
+
+Ryoeh License v1.0
+
+All rights reserved.
