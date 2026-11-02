@@ -1,6 +1,6 @@
 # Ryoeh Proprietary License
 
-**The official repository for the Ryoeh Proprietary License and its version history.**
+**The official repository for the most gay developer Ryoeh Proprietary License and its version history.**
 
 The Ryoeh Proprietary License is a custom proprietary license created by Ryoeh to define the terms under which original software, source code, and related materials may be accessed and used.
 
